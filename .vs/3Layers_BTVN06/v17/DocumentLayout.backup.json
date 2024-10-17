@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{5B71ADA4-C75A-4949-A4DF-869EFE37729A}|3Layers_BTVN06\\GUI06.csproj|solutionrelative:3layers_btvn06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B71ADA4-C75A-4949-A4DF-869EFE37729A}|3Layers_BTVN06\\GUI06.csproj|c:\\users\\admin\\source\\repos\\3layers_btvn06\\3layers_btvn06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B71ADA4-C75A-4949-A4DF-869EFE37729A}|3Layers_BTVN06\\GUI06.csproj|C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\3layers_btvn06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B71ADA4-C75A-4949-A4DF-869EFE37729A}|3Layers_BTVN06\\GUI06.csproj|solutionrelative:3layers_btvn06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|c:\\users\\admin\\source\\repos\\3layers_btvn06\\bus06\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\bus06\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|solutionrelative:bus06\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DDA0324-4A7D-4769-A413-797C2B74D245}|DAL06\\DAL06.csproj|c:\\users\\admin\\source\\repos\\3layers_btvn06\\dal06\\entities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DDA0324-4A7D-4769-A413-797C2B74D245}|DAL06\\DAL06.csproj|C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\dal06\\entities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DDA0324-4A7D-4769-A413-797C2B74D245}|DAL06\\DAL06.csproj|solutionrelative:dal06\\entities\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|c:\\users\\admin\\source\\repos\\3layers_btvn06\\bus06\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\bus06\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|solutionrelative:bus06\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|c:\\users\\admin\\source\\repos\\3layers_btvn06\\bus06\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\bus06\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B26F4C-8EE0-4692-9EF7-E18D4CDD4756}|BUS06\\BUS06.csproj|solutionrelative:bus06\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -50,8 +58,7 @@
               "RelativeToolTip": "DAL06\\Entities\\StudentModel.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:44:18.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:44:18.658Z"
             },
             {
               "$type": "Document",
@@ -63,8 +70,7 @@
               "RelativeToolTip": "BUS06\\StudentService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:44:06.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:44:06.486Z"
             },
             {
               "$type": "Document",
@@ -76,8 +82,7 @@
               "RelativeToolTip": "BUS06\\MajorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:44:00.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:44:00.75Z"
             },
             {
               "$type": "Document",
@@ -89,8 +94,7 @@
               "RelativeToolTip": "BUS06\\FacultyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T11:43:53.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:43:53.036Z"
             },
             {
               "$type": "Document",
@@ -100,7 +104,7 @@
               "RelativeDocumentMoniker": "3Layers_BTVN06\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\3Layers_BTVN06\\Form1.cs",
               "RelativeToolTip": "3Layers_BTVN06\\Form1.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAawK8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAADgv68AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T11:41:28.386Z",
               "EditorCaption": ""
@@ -114,8 +118,7 @@
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\3Layers_BTVN06\\3Layers_BTVN06\\Form1.cs [Design]",
               "RelativeToolTip": "3Layers_BTVN06\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:34:39.405Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-16T11:34:39.405Z"
             }
           ]
         }
