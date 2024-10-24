@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi8.csproj|c:\\users\\admin\\source\\repos\\btvn_buoi7\\btvn_buoi7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi8.csproj|solutionrelative:btvn_buoi7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi7.csproj|c:\\users\\admin\\source\\repos\\btvn_buoi7\\btvn_buoi7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi7.csproj|solutionrelative:btvn_buoi7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi8.csproj|c:\\users\\admin\\source\\repos\\btvn_buoi7\\btvn_buoi7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B590466D-38A8-4F04-9A14-E60B9DCA676E}|BTVN_Buoi7\\BTVN_Buoi8.csproj|solutionrelative:btvn_buoi7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.Designer.cs",
+              "RelativeToolTip": "BTVN_Buoi7\\Form1.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAApwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:29:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.cs",
+              "RelativeToolTip": "BTVN_Buoi7\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:25:37.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.cs",
+              "RelativeDocumentMoniker": "BTVN_Buoi7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BTVN_Buoi7\\BTVN_Buoi7\\Form1.cs [Design]",
+              "RelativeToolTip": "BTVN_Buoi7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:14:33.195Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

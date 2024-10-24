@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\bin\Debug\BTVN_Buoi7.exe.config
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\bin\Debug\BTVN_Buoi7.exe
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\bin\Debug\BTVN_Buoi7.pdb
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi7.Form1.resources
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi7.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi8.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi7.exe
+C:\Users\Admin\source\repos\BTVN_Buoi7\BTVN_Buoi7\obj\Debug\BTVN_Buoi7.pdb
