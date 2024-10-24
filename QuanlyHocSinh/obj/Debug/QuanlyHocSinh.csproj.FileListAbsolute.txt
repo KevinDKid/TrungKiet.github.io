@@ -1,0 +1,45 @@
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe.config
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.pdb
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Form1.resources
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Properties.Resources.resources
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHo.D03E1836.Up2Date
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.exe
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.pdb
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe.config
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.pdb
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.dll
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.xml
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.AssemblyReference.cache
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Form1.resources
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Properties.Resources.resources
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.GenerateResource.cache
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.CoreCompileInputs.cache
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHo.D03E1836.Up2Date
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.exe
+D:\code\THLTMTWD\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.pdb
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe.config
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.pdb
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.AssemblyReference.cache
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Form1.resources
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Properties.Resources.resources
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.GenerateResource.cache
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHo.D03E1836.Up2Date
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.exe
+C:\Users\Admin\Favorites\Downloads\QuanlyHocSinh - Copy\QuanlyHocSinh - Copy\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.pdb
